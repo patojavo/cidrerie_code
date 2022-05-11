@@ -9,7 +9,7 @@
 #define SEGF 51
 #define SEGG 52
 #define SEGP 48
-
+//commentaire on peut s'en passer
 //encoder
 #define KEY 2 // KEY pin
 #define S2 3  // S2 pin
