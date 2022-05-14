@@ -1,3 +1,4 @@
+//Displays temperature, by writing each digit to 7 segment display
 
 void affiche_temperature(NOMBRE nombre) {
   digitalWrite(DIGIT1, LOW);
